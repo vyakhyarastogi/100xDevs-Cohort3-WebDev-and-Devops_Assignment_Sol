@@ -378,25 +378,25 @@ git clone https://github.com/Bharat2044/100xDevs-Cohort3-WebDev-and-Devops.git
 
 ## 📚 [Week 10](./Week%2010/)
 
-### 💻 [**10.1 - React Part 2 - SPAs, Routing**](./Week%2010/10.1%20-%20React%20Part%202%20-%20SPAs,%20Routing/)
+### 💻 [**10.1 - React Part 2 (SPAs, Routing)**](./Week%2010/10.1%20-%20React%20Part%202%20(SPAs,%20Routing)/)
 
 > **`Topics Covered:`** Single Page Application, Routing(react-router-dom), Layout, useRef Hook, why we need useRef hook, and Create a Clock with start and stop functionality using useRef.
 
--   👨‍💻 [**Lecture Codes**](./Week%2010/10.1%20-%20React%20Part%202%20-%20SPAs,%20Routing/Lecture%20Codes/)
--   📖 [**Notes/Slides & Articles/Blogs Link**](./Week%2010/10.1%20-%20React%20Part%202%20-%20SPAs,%20Routing/10.1%20-%20React%20Part%202%20-%20SPAs,%20Routing%20Notes.md)
--   📝 [**Lecture Assignment**](./Week%2010/10.1%20-%20React%20Part%202%20-%20SPAs,%20Routing/10.1%20-%20React%20Part%202%20-%20SPAs,%20Routing%20Assignment.md)
--   🖥️ [**Assignment Solution**](./Week%2010/10.1%20-%20React%20Part%202%20-%20SPAs,%20Routing/Assignment%20Solution/)
-    - [Allen UI Clone Project🚀](./Week%2010/10.1%20-%20React%20Part%202%20-%20SPAs,%20Routing/Assignment%20Solution/allen-clone/)
+-   👨‍💻 [**Lecture Codes**](./Week%2010/10.1%20-%20React%20Part%202%20(SPAs,%20Routing)/Lecture%20Codes/)
+-   📖 [**Notes/Slides & Articles/Blogs Link**](./Week%2010/10.1%20-%20React%20Part%202%20(SPAs,%20Routing)/10.1%20-%20React%20Part%202%20(SPAs,%20Routing)%20Notes.md)
+-   📝 [**Lecture Assignment**](./Week%2010/10.1%20-%20React%20Part%202%20(SPAs,%20Routing)/10.1%20-%20React%20Part%202%20(SPAs,%20Routing)%20Assignment.md)
+-   🖥️ [**Assignment Solution**](./Week%2010/10.1%20-%20React%20Part%202%20(SPAs,%20Routing)/Assignment%20Solution/)
+    - [Allen UI Clone Project🚀](./Week%2010/10.1%20-%20React%20Part%202%20(SPAs,%20Routing)/Assignment%20Solution/allen-clone/)
 
-### 💻 [**10.2 - React Part 3 - Context API, Rolling up the State**](./Week%2010/10.2%20-%20React%20Part%203%20-%20Context%20API,%20Rolling%20up%20the%20State/)
+### 💻 [**10.2 - React Part 3 (Context API, Rolling Up The State)**](./Week%2010/10.2%20-%20React%20Part%203%20(Context%20API,%20Rolling%20Up%20The%20State)/)
 
 > **`Topics Covered:`** Rolling-up the State, unoptimal re-renders, Prop-Drilling, Context API, Recoils state management library...
 
--   👨‍💻 [**Lecture Codes**](./Week%2010/10.2%20-%20React%20Part%203%20-%20Context%20API,%20Rolling%20up%20the%20State/Lecture%20Codes/)
--   📖 [**Notes/Slides & Articles/Blogs Link**](./Week%2010/10.2%20-%20React%20Part%203%20-%20Context%20API,%20Rolling%20up%20the%20State/10.2%20-%20Context%20API,%20Prop%20drilling%20and%20custom%20hooks%20Notes.md)
--   📝 [**Lecture Assignment**](./Week%2010/10.2%20-%20React%20Part%203%20-%20Context%20API,%20Rolling%20up%20the%20State/10.2%20-%20Context%20API,%20Prop%20drilling%20and%20custom%20hooks%20Assignment.md)
--   🖥️ [**Assignment Solution**](./Week%2010/10.2%20-%20React%20Part%203%20-%20Context%20API,%20Rolling%20up%20the%20State/Assignment%20Solution/)
-    - [Multi-level Dropdown Menu Project🚀](./Week%2010/10.2%20-%20React%20Part%203%20-%20Context%20API,%20Rolling%20up%20the%20State/Assignment%20Solution/multilevel-dropdown-menu/)
+-   👨‍💻 [**Lecture Codes**](./Week%2010/10.2%20-%20React%20Part%203%20(Context%20API,%20Rolling%20Up%20The%20State)/Lecture%20Codes/)
+-   📖 [**Notes/Slides & Articles/Blogs Link**](./Week%2010/10.2%20-%20React%20Part%203%20(Context%20API,%20Rolling%20Up%20The%20State)/10.2%20-%20React%20Part%203%20(Context%20API,%20Rolling%20Up%20The%20State)%20Notes.md)
+-   📝 [**Lecture Assignment**](./Week%2010/10.2%20-%20React%20Part%203%20(Context%20API,%20Rolling%20Up%20The%20State)/10.2%20-%20React%20Part%203%20(Context%20API,%20Rolling%20Up%20The%20State)%20Assignment.md)
+-   🖥️ [**Assignment Solution**](./Week%2010/10.2%20-%20React%20Part%203%20(Context%20API,%20Rolling%20Up%20The%20State)/Assignment%20Solution/)
+    - [Multi-level Dropdown Menu Project🚀](./Week%2010/10.2%20-%20React%20Part%203%20(Context%20API,%20Rolling%20Up%20The%20State)/Assignment%20Solution/multilevel-dropdown-menu/)
 
 </details>
 
@@ -405,26 +405,109 @@ git clone https://github.com/Bharat2044/100xDevs-Cohort3-WebDev-and-Devops.git
 
 ## 📚 [Week 11](./Week%2011/)
 
-### 💻 [**11.1 - Custom Hooks, useDebounce, useFetch**](./Week%2011/11.1%20-%20Custom%20Hooks,%20useDebounce,%20useFetch/)
+### 💻 [**11.1 - Custom Hooks**](./Week%2011/11.1%20-%20Custom%20Hooks/)
 
 > **`Topics Covered:`** Custom Hooks - useCounter, useFetch, useFetch with re-fetching, usePrev, useDebounce...
 
--   👨‍💻 [**Lecture Codes**](./Week%2011/11.1%20-%20Custom%20Hooks,%20useDebounce,%20useFetch/Lecture%20Codes/)
--   📖 [**Notes/Slides & Articles/Blogs Link**](./Week%2011/11.1%20-%20Custom%20Hooks,%20useDebounce,%20useFetch/11.1%20-%20Custom%20Hooks,%20useDebounce,%20useFetch%20Notes.md)
--   📝 [**Lecture Assignment**](./Week%2011/11.1%20-%20Custom%20Hooks,%20useDebounce,%20useFetch/11.1%20-%20Custom%20Hooks,%20useDebounce,%20useFetch%20Assignment.md)
--   🖥️ [**Assignment Solution**](./Week%2011/11.1%20-%20Custom%20Hooks,%20useDebounce,%20useFetch/Assignment%20Solution/)
+-   👨‍💻 [**Lecture Codes**](./Week%2011/11.1%20-%20Custom%20Hooks/Lecture%20Codes/)
+-   📖 [**Notes/Slides & Articles/Blogs Link**](./Week%2011/11.1%20-%20Custom%20Hooks/11.1%20-%20Custom%20Hooks%20Notes.md)
+-   📝 [**Lecture Assignment**](./Week%2011/11.1%20-%20Custom%20Hooks/11.1%20-%20Custom%20Hooks%20Assignment.md)
+-   🖥️ [**Assignment Solution**](./Week%2011/11.1%20-%20Custom%20Hooks/Assignment%20Solution/)
 
 ### 💻 [**11.2 - Recoil**](./Week%2011/11.2%20-%20Recoil/)
 
-> **`Topics Covered:`** 
+> **`Topics Covered:`** Context API, Recoil (State Management Library), Atom & Selectors...
 
 -   👨‍💻 [**Lecture Codes**](./Week%2011/11.2%20-%20Recoil/Lecture%20Codes/)
 -   📖 [**Notes/Slides & Articles/Blogs Link**](./Week%2011/11.2%20-%20Recoil/11.2%20-%20Recoil%20Notes.md)
 -   📝 [**Lecture Assignment**](./Week%2011/11.2%20-%20Recoil/11.2%20-%20Recoil%20Assignment.md)
 -   🖥️ [**Assignment Solution**](./Week%2011/11.2%20-%20Recoil/Assignment%20Solution/)
 
+### 💻 [**11.3 - Recoil Deep Dive (Offline)**](./Week%2011/11.3%20-%20Recoil%20Deep%20Dive%20(Offline)/)
+
+> **`Topics Covered:`** Recoil (State Management Library), Atom & Selectors...
+
+-   👨‍💻 [**Lecture Codes**](./Week%2011/11.3%20-%20Recoil%20Deep%20Dive%20(Offline)/Lecture%20Codes/)
+-   📖 [**Notes/Slides & Articles/Blogs Link**](./Week%2011/11.3%20-%20Recoil%20Deep%20Dive%20(Offline)/11.3%20-%20Recoil%20Deep%20Dive%20(Offline)%20Notes.md)
+-   📝 [**Lecture Assignment**](./Week%2011/11.3%20-%20Recoil%20Deep%20Dive%20(Offline)/11.3%20-%20Recoil%20Deep%20Dive%20(Offline)%20Assignment.md)
+-   🖥️ [**Assignment Solution**](./Week%2011/11.3%20-%20Recoil%20Deep%20Dive%20(Offline)/Assignment%20Solution/)
+
 </details>
 
+<details>
+<summary style="display: inline; font-size: 20px; font-weight: 700; cursor: pointer;" title="Click on me to Expand">Week 12 - Ui/Ux by Keshav</summary>
+
+## 📚 [Week 12 - Ui/Ux by Keshav](./Week%2012%20-%20Ui-Ux%20by%20Keshav/)
+
+### 💻 [**12.1 - Ui/Ux Primitives by Keshav - Part 1**](./Week%2012%20-%20Ui-Ux%20by%20Keshav/12.1%20-%20Ui-Ux%20Primitives%20by%20Keshav%20-%20Part%201/)
+
+> **`Topics Covered:`** Typography(Fonts, Font Weight, Font Size, Leading, Tracking), Colors(RGB, HSL, ...), What and Why UI/UX, User Interface (UI), User Experience (UX), UI/Frontend Designing...
+
+-   👨‍💻 [**Lecture Codes**](./Week%2012%20-%20Ui-Ux%20by%20Keshav/12.1%20-%20Ui-Ux%20Primitives%20by%20Keshav%20-%20Part%201/Lecture%20Codes/)
+-   📖 [**Notes/Slides & Articles/Blogs Link**](./Week%2012%20-%20Ui-Ux%20by%20Keshav/12.1%20-%20Ui-Ux%20Primitives%20by%20Keshav%20-%20Part%201/12.1%20-%20Ui-Ux%20Primitives%20by%20Keshav%20-%20Part%201%20Notes.md)
+-   📝 [**Lecture Assignment**](./Week%2012%20-%20Ui-Ux%20by%20Keshav/12.1%20-%20Ui-Ux%20Primitives%20by%20Keshav%20-%20Part%201/12.1%20-%20Ui-Ux%20Primitives%20by%20Keshav%20-%20Part%201%20Assignment.md)
+-   🖥️ [**Assignment Solution**](./Week%2012%20-%20Ui-Ux%20by%20Keshav/12.1%20-%20Ui-Ux%20Primitives%20by%20Keshav%20-%20Part%201/Assignment%20Solution/)
+
+### 💻 [**12.2 - Ui/Ux Primitives by Keshav - Part 2**](./Week%2012%20-%20Ui-Ux%20by%20Keshav/12.2%20-%20Ui-Ux%20Primitives%20by%20Keshav%20-%20Part%202/)
+
+> **`Topics Covered:`** Reacp Week 12.1, UI/Frontend, Branding, Create, Vimal Pan Masala(Bolo Zubaan Kesari) Website...
+
+-   👨‍💻 [**Lecture Codes**](./Week%2012%20-%20Ui-Ux%20by%20Keshav/12.2%20-%20Ui-Ux%20Primitives%20by%20Keshav%20-%20Part%202/Lecture%20Codes/)
+-   📖 [**Notes/Slides & Articles/Blogs Link**](./Week%2012%20-%20Ui-Ux%20by%20Keshav/12.2%20-%20Ui-Ux%20Primitives%20by%20Keshav%20-%20Part%202/12.2%20-%20Ui-Ux%20Primitives%20by%20Keshav%20-%20Part%202%20Notes.md)
+-   📝 [**Lecture Assignment**](./Week%2012%20-%20Ui-Ux%20by%20Keshav/12.2%20-%20Ui-Ux%20Primitives%20by%20Keshav%20-%20Part%202/12.2%20-%20Ui-Ux%20Primitives%20by%20Keshav%20-%20Part%202%20Assignment.md)
+-   🖥️ [**Assignment Solution**](./Week%2012%20-%20Ui-Ux%20by%20Keshav/12.2%20-%20Ui-Ux%20Primitives%20by%20Keshav%20-%20Part%202/Assignment%20Solution/)
+
+</details>
+
+<details>
+<summary style="display: inline; font-size: 20px; font-weight: 700; cursor: pointer;" title="Click on me to Expand">Week 13 - Tailwind</summary>
+
+## 📚 [Week 13 - Tailwind](./Week%2013%20-%20Tailwind/)
+
+### 💻 [**13.1 - Tailwind Part 1**](./Week%2013%20-%20Tailwind/13.1%20-%20Tailwind%20Part%201/)
+
+> **`Topics Covered:`** Learn About `Tailwind CSS` with Vite, What and Why Tailwind CSS, Colors, background-colors, fonts, text, border, radius, flexbox, grid and build some projects using react and tailwind...
+
+-   👨‍💻 [**Lecture Codes**](./Week%2013%20-%20Tailwind/13.1%20-%20Tailwind%20Part%201/Lecture%20Codes/)
+-   📖 [**Notes/Slides & Articles/Blogs Link**](./Week%2013%20-%20Tailwind/13.1%20-%20Tailwind%20Part%201/13.1%20-%20Tailwind%20Part%201%20Notes.md)
+-   📝 [**Lecture Assignment**](./Week%2013%20-%20Tailwind/13.1%20-%20Tailwind%20Part%201/13.1%20-%20Tailwind%20Part%201%20Assignment.md)
+-   🖥️ [**Assignment Solution**](./Week%2013%20-%20Tailwind/13.1%20-%20Tailwind%20Part%201/Assignment%20Solution/)
+
+### 💻 [**13.2 - Tailwind Part 2**](./Week%2013%20-%20Tailwind/13.2%20-%20Tailwind%20Part%202/)
+
+> **`Topics Covered:`** Learn about animation in tailwind, Create Sidebar and Projects...
+
+-   👨‍💻 [**Lecture Codes**](./Week%2013%20-%20Tailwind/13.2%20-%20Tailwind%20Part%202/Lecture%20Codes/)
+-   📖 [**Notes/Slides & Articles/Blogs Link**](./Week%2013%20-%20Tailwind/13.2%20-%20Tailwind%20Part%202/13.2%20-%20Tailwind%20Part%202%20Notes.md)
+-   📝 [**Lecture Assignment**](./Week%2013%20-%20Tailwind/13.2%20-%20Tailwind%20Part%202/13.2%20-%20Tailwind%20Part%202%20Assignment.md)
+-   🖥️ [**Assignment Solution**](./Week%2013%20-%20Tailwind/13.2%20-%20Tailwind%20Part%202/Assignment%20Solution/)
+
+</details>
+
+<details>
+<summary style="display: inline; font-size: 20px; font-weight: 700; cursor: pointer;" title="Click on me to Expand">Week 14 - TypeScript</summary>
+
+## 📚 [Week 14 - TypeScript](./Week%2014%20-%20TypeScript/)
+
+### 💻 [**14.1 - TypeScript Part 1**](./Week%2014%20-%20TypeScript/14.1%20-%20TypeScript%20Part%201/)
+
+> **`Topics Covered:`** Learn About What and Why `TypeScript`, JavaScript vs TypeScript, TypeScript Compiler, `tsconfig.json` file, Basic Data Types, number, string, boolean, null, undefined, Objects, let, const, Functions, Interface, Types...
+
+-   👨‍💻 [**Lecture Codes**](./Week%2014%20-%20TypeScript/14.1%20-%20TypeScript%20Part%201/Lecture%20Codes/)
+-   📖 [**Notes/Slides & Articles/Blogs Link**](./Week%2014%20-%20TypeScript/14.1%20-%20TypeScript%20Part%201/14.1%20-%20TypeScript%20Part%201%20Notes.md)
+-   📝 [**Lecture Assignment**](./Week%2014%20-%20TypeScript/14.1%20-%20TypeScript%20Part%201/14.1%20-%20TypeScript%20Part%201%20Assignment.md)
+-   🖥️ [**Assignment Solution**](./Week%2014%20-%20TypeScript/14.1%20-%20TypeScript%20Part%201/Assignment%20Solution/)
+
+### 💻 [**14.2 - TypeScript Part 2**](./Week%2014%20-%20TypeScript/14.2%20-%20TypeScript%20Part%202/)
+
+> **`Topics Covered:`** Learn about difference between Types and Interface, Arrays, Objects, Union, Intersection, Class, Abstract Class, Inheritance, extends vs implements, solve some problems 
+
+-   👨‍💻 [**Lecture Codes**](./Week%2014%20-%20TypeScript/14.2%20-%20TypeScript%20Part%202/Lecture%20Codes/)
+-   📖 [**Notes/Slides & Articles/Blogs Link**](./Week%2014%20-%20TypeScript/14.2%20-%20TypeScript%20Part%202/14.2%20-%20TypeScript%20Part%202%20Notes.md)
+-   📝 [**Lecture Assignment**](./Week%2014%20-%20TypeScript/14.2%20-%20TypeScript%20Part%202/14.2%20-%20TypeScript%20Part%202%20Assignment.md)
+-   🖥️ [**Assignment Solution**](./Week%2014%20-%20TypeScript/14.2%20-%20TypeScript%20Part%202/Assignment%20Solution/)
+
+</details>
 
 <br />
 
